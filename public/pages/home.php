@@ -2,6 +2,8 @@
 
 <h2>Pagina inicial</h2>
 
+<?= get('message'); ?>
+
 <table class="table table-striped table-hover">
     <thead>
         <tr>
