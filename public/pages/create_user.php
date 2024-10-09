@@ -1,3 +1,5 @@
+<?= get('message'); ?>
+
 <form action="/pages/forms/create_user.php" method="POST" role="form">
     <div class="form-group">
         <label for="name">Nome:</label>
